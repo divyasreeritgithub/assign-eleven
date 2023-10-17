@@ -19,5 +19,6 @@ document.getElementById("odd").onclick = function () {
         this.parentNode.remove();
       };
     }
+    todoele.value = "";
   }
 };
